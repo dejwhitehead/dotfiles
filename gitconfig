@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = david@ent.org.uk
+	name = David Whitehead
